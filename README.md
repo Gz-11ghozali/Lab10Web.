@@ -280,6 +280,9 @@ $config = [
 Implementasikan konsep modularisasi pada kode program pada praktukum sebelumnya
 dengan menggunakan class library untuk form dan database connection.
 
+### Langkah 4
+dengan cara menambah kan file header.php dan footer.php lalu masukkan include('header.php'); dan di form_input.php nya
+
 <?php
     // Menghubungkan dengan file database.php
     include "database.php";
